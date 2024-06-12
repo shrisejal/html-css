@@ -1,6 +1,9 @@
 h1{ color:red;}
 body {
   background-color: powderblue;
+  background-image: url(https://tse3.mm.bing.net/th?id=OIP.3p_1h1IggeIOMBhyMoifKAHaDz&pid=Api&P=0&h=180);
+  background-size: cover;
+  background-attachment: fixed;
 }
 h1 {
   color: blue;
